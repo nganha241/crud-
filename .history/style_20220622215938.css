@@ -1,0 +1,15 @@
+form {
+    align-items: center;
+}
+
+label {
+    width: 20%;
+    border: 1px solid;
+    align-items: flex-end;
+}
+
+input {
+    width: 300px;
+    height: 30px;
+    margin-bottom: 10px;
+}

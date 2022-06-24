@@ -1,0 +1,23 @@
+form {
+    align-items: center;
+}
+
+form>div {
+    display: flex;
+    
+}
+
+label {
+    width: 5%;
+}
+
+input {
+    width: 300px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 5px;
+    font-size: 16px;
+}

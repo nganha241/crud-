@@ -1,0 +1,18 @@
+form {
+    align-items: center;
+}
+
+form>div {
+    display: flex;
+    
+}
+
+label {
+    
+}
+
+input {
+    width: 300px;
+    height: 30px;
+    margin-bottom: 10px;
+}
